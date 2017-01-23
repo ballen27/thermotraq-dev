@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_gradient"
+    android:orientation="vertical" >
+
+    <ProgressBar
+        android:id="@+id/pbBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="10dp"
+        android:progressDrawable="@drawable/progress_circle2"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/ll1"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:gravity="bottom"
+        android:orientation="horizontal"
+        android:visibility="visible" >
+
+        <Button
+            android:id="@+id/btnCreatePW"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_empty_btn"
+            android:text="Create Password"
+            android:visibility="visible" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:gravity="bottom"
+        android:orientation="horizontal"
+        android:visibility="visible" >
+
+        <EditText
+            android:id="@+id/etPW"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/down"
+            android:ems="10"
+            android:gravity="center_vertical|center_horizontal"
+            android:inputType="textPassword"
+            android:maxLength="8"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/btnEnterPW"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_empty_btn"
+            android:text="Save"
+            android:visibility="visible" />
+
+    </LinearLayout>
+
+</LinearLayout>

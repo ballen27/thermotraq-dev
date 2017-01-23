@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Temp-001 v115</string>
+    <string name="title_activity_main">Temp-001 v115</string>
+    <string name="t_up_limit">上限</string>
+    <string name="t_dn_limit">下限</string>
+    <string name="t_record">記錄溫度</string>
+    <string name="t_time">時間</string>
+    <string name="t_temp">溫度</string>
+    <string name="t_set_now">設定現在時間為啟動時間</string>
+    <string name="t_min">分</string>
+    <string name="t_set_delay">設定延遲時間</string>
+    <string name="t_set_interval">設定間隔時間</string>
+    <string name="t_set_up_dn">設定溫度上下限</string>
+    <string name="t_count">次</string>
+    <string name="t_set_over_limit">設定超過次數限額</string>
+    <string name="t_set_all">設定所有設定值</string>
+    <string name="t_explanation">說明</string>
+    <string name="text_show_data">顯示Tag資料</string>
+    <string name="text_delete_this">刪除此筆記錄</string>
+
+</resources>

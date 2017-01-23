@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\brons\Documents\HotLogDev\android\android\Temp-ID\app\build\intermediates\pre-dexed\debug\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\brons\Documents\HotLogDev\android\android\Temp-ID\app\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="C:\Users\brons\Documents\HotLogDev\android\android\Temp-ID\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0_17627795c74868a752b5c90756b063ca781cd6c7.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\brons\Documents\HotLogDev\android\android\Temp-ID\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        jar="C:\Users\brons\Documents\HotLogDev\android\android\Temp-ID\app\libs\commons-net-3.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="C:\Users\brons\Documents\HotLogDev\android\android\Temp-ID\app\build\intermediates\pre-dexed\debug\commons-net-3.3_04ca2d1db3cf8636cf949d14d9b6172f47ebcdd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\brons\Documents\HotLogDev\android\android\Temp-ID\app\libs\mysql-connector-java-5.1.35-bin.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="755b22641acc4e6f2b9e449cdef0108274450ca4">
+        <dex dex="C:\Users\brons\Documents\HotLogDev\android\android\Temp-ID\app\build\intermediates\pre-dexed\debug\mysql-connector-java-5.1.35-bin_662c8999a292a893894199c8ef2b7f61e05bb34d.jar" />
+    </item>
+    <item
+        jar="C:\Users\brons\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\brons\Documents\HotLogDev\android\android\Temp-ID\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_a0940990711495ea869efcf920b2a7cb7a499e80.jar" />
+    </item>
+
+</items>

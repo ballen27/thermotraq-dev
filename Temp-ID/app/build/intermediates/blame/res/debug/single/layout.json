@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\android\\projects\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_list.xml",
+        "source": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\layout\\tag_list.xml"
+    },
+    {
+        "merged": "C:\\android\\projects\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\command.xml",
+        "source": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\layout\\command.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\command.xml",
+        "source": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\command.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\android\\projects\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\result.xml",
+        "source": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\result.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_list.xml",
+        "source": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\tag_list.xml"
+    },
+    {
+        "merged": "C:\\android\\projects\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single.xml",
+        "source": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\layout\\single.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\android\\projects\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\curve.xml",
+        "source": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\layout\\curve.xml"
+    },
+    {
+        "merged": "C:\\android\\projects\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_data.xml",
+        "source": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\layout\\list_data.xml"
+    },
+    {
+        "merged": "C:\\android\\projects\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\android\\projects\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\result.xml",
+        "source": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\layout\\result.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\result.xml",
+        "source": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\result.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\curve.xml",
+        "source": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\curve.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\curve.xml",
+        "source": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\curve.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_data.xml",
+        "source": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\list_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_string.xml",
+        "source": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\list_string.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data.xml",
+        "source": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\data.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data.xml",
+        "source": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\data.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_string.xml",
+        "source": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\list_string.xml"
+    },
+    {
+        "merged": "C:\\android\\projects\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_string.xml",
+        "source": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\layout\\list_string.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_data.xml",
+        "source": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\list_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\command.xml",
+        "source": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\command.xml"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_list.xml",
+        "source": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\layout\\tag_list.xml"
+    }
+]

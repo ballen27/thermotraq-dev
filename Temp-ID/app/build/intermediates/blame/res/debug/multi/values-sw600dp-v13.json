@@ -1,0 +1,1955 @@
+[
+    {
+        "outputFile": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 33,
+                    "endOffset": 84
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 1,
+                        "startOffset": 14,
+                        "endColumn": 30,
+                        "endOffset": 43
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 89,
+                    "endColumn": 33,
+                    "endOffset": 118
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 46,
+                        "endColumn": 30,
+                        "endOffset": 75
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 123,
+                    "endColumn": 35,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 110,
+                        "endColumn": 32,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 37,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 420,
+                        "endColumn": 34,
+                        "endOffset": 453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 37,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 456,
+                        "endColumn": 34,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 37,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 492,
+                        "endColumn": 34,
+                        "endOffset": 525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 35,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 144,
+                        "endColumn": 32,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 35,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 178,
+                        "endColumn": 32,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 37,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 528,
+                        "endColumn": 34,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 35,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 212,
+                        "endColumn": 32,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 419,
+                    "endColumn": 33,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 78,
+                        "endColumn": 30,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 35,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 246,
+                        "endColumn": 32,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 36,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 280,
+                        "endColumn": 33,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 36,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 315,
+                        "endColumn": 33,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 36,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 350,
+                        "endColumn": 33,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 36,
+                    "endOffset": 632
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 385,
+                        "endColumn": 33,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 637,
+                    "endColumn": 40,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 606,
+                        "endColumn": 37,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 40,
+                    "endOffset": 714
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endColumn": 40,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 719,
+                    "endColumn": 41,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 733,
+                        "endColumn": 41,
+                        "endOffset": 770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 42,
+                    "endOffset": 799
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 776,
+                        "endColumn": 42,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 804,
+                    "endColumn": 40,
+                    "endOffset": 840
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 40,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 845,
+                    "endColumn": 41,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 862,
+                        "endColumn": 41,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 41,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 41,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 39,
+                    "endOffset": 964
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 39,
+                        "endOffset": 1198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 969,
+                    "endColumn": 40,
+                    "endOffset": 1005
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1204,
+                        "endColumn": 40,
+                        "endOffset": 1240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1010,
+                    "endColumn": 42,
+                    "endOffset": 1048
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 1243,
+                        "endColumn": 39,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1053,
+                    "endColumn": 45,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1284,
+                        "endColumn": 42,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 42,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 42,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 43,
+                    "endOffset": 1181
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 43,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1186,
+                    "endColumn": 44,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 991,
+                        "endColumn": 41,
+                        "endOffset": 1031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 45,
+                    "endOffset": 1272
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1034,
+                        "endColumn": 42,
+                        "endOffset": 1075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1277,
+                    "endColumn": 44,
+                    "endOffset": 1317
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1328,
+                        "endColumn": 41,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1322,
+                    "endColumn": 41,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1078,
+                        "endColumn": 38,
+                        "endOffset": 1115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1364,
+                    "endColumn": 43,
+                    "endOffset": 1403
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1118,
+                        "endColumn": 40,
+                        "endOffset": 1157
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 33,
+                    "endOffset": 84
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 1,
+                        "startOffset": 14,
+                        "endColumn": 30,
+                        "endOffset": 43
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 89,
+                    "endColumn": 33,
+                    "endOffset": 118
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 46,
+                        "endColumn": 30,
+                        "endOffset": 75
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 123,
+                    "endColumn": 35,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 110,
+                        "endColumn": 32,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 37,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 420,
+                        "endColumn": 34,
+                        "endOffset": 453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 37,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 456,
+                        "endColumn": 34,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 37,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 492,
+                        "endColumn": 34,
+                        "endOffset": 525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 35,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 144,
+                        "endColumn": 32,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 35,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 178,
+                        "endColumn": 32,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 37,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 528,
+                        "endColumn": 34,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 35,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 212,
+                        "endColumn": 32,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 419,
+                    "endColumn": 33,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 78,
+                        "endColumn": 30,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 35,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 246,
+                        "endColumn": 32,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 36,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 280,
+                        "endColumn": 33,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 36,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 315,
+                        "endColumn": 33,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 36,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 350,
+                        "endColumn": 33,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 36,
+                    "endOffset": 632
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 385,
+                        "endColumn": 33,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 637,
+                    "endColumn": 40,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 606,
+                        "endColumn": 37,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 40,
+                    "endOffset": 714
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endColumn": 40,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 719,
+                    "endColumn": 41,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 733,
+                        "endColumn": 41,
+                        "endOffset": 770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 42,
+                    "endOffset": 799
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 776,
+                        "endColumn": 42,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 804,
+                    "endColumn": 40,
+                    "endOffset": 840
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 40,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 845,
+                    "endColumn": 41,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 862,
+                        "endColumn": 41,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 41,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 41,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 39,
+                    "endOffset": 964
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 39,
+                        "endOffset": 1198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 969,
+                    "endColumn": 40,
+                    "endOffset": 1005
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1204,
+                        "endColumn": 40,
+                        "endOffset": 1240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1010,
+                    "endColumn": 42,
+                    "endOffset": 1048
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 1243,
+                        "endColumn": 39,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1053,
+                    "endColumn": 45,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1284,
+                        "endColumn": 42,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 42,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 42,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 43,
+                    "endOffset": 1181
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 43,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1186,
+                    "endColumn": 44,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 991,
+                        "endColumn": 41,
+                        "endOffset": 1031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 45,
+                    "endOffset": 1272
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1034,
+                        "endColumn": 42,
+                        "endOffset": 1075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1277,
+                    "endColumn": 44,
+                    "endOffset": 1317
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1328,
+                        "endColumn": 41,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1322,
+                    "endColumn": 41,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1078,
+                        "endColumn": 38,
+                        "endOffset": 1115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1364,
+                    "endColumn": 43,
+                    "endOffset": 1403
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1118,
+                        "endColumn": 40,
+                        "endOffset": 1157
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\android\\projects\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 33,
+                    "endOffset": 84
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 1,
+                        "startOffset": 14,
+                        "endColumn": 30,
+                        "endOffset": 43
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 89,
+                    "endColumn": 33,
+                    "endOffset": 118
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 46,
+                        "endColumn": 30,
+                        "endOffset": 75
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 123,
+                    "endColumn": 35,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 110,
+                        "endColumn": 32,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 37,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 420,
+                        "endColumn": 34,
+                        "endOffset": 453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 37,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 456,
+                        "endColumn": 34,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 37,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 492,
+                        "endColumn": 34,
+                        "endOffset": 525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 35,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 144,
+                        "endColumn": 32,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 35,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 178,
+                        "endColumn": 32,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 37,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 528,
+                        "endColumn": 34,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 35,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 212,
+                        "endColumn": 32,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 419,
+                    "endColumn": 33,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 78,
+                        "endColumn": 30,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 35,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 246,
+                        "endColumn": 32,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 36,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 280,
+                        "endColumn": 33,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 36,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 315,
+                        "endColumn": 33,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 36,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 350,
+                        "endColumn": 33,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 36,
+                    "endOffset": 632
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 385,
+                        "endColumn": 33,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 637,
+                    "endColumn": 40,
+                    "endOffset": 673
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 606,
+                        "endColumn": 37,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 678,
+                    "endColumn": 40,
+                    "endOffset": 714
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 648,
+                        "endColumn": 40,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 719,
+                    "endColumn": 41,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 733,
+                        "endColumn": 41,
+                        "endOffset": 770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 42,
+                    "endOffset": 799
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 776,
+                        "endColumn": 42,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 804,
+                    "endColumn": 40,
+                    "endOffset": 840
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 40,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 845,
+                    "endColumn": 41,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 862,
+                        "endColumn": 41,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 41,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 41,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 39,
+                    "endOffset": 964
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 39,
+                        "endOffset": 1198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 969,
+                    "endColumn": 40,
+                    "endOffset": 1005
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1204,
+                        "endColumn": 40,
+                        "endOffset": 1240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1010,
+                    "endColumn": 42,
+                    "endOffset": 1048
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 1243,
+                        "endColumn": 39,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1053,
+                    "endColumn": 45,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1284,
+                        "endColumn": 42,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 42,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 42,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 43,
+                    "endOffset": 1181
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 43,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1186,
+                    "endColumn": 44,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 991,
+                        "endColumn": 41,
+                        "endOffset": 1031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 45,
+                    "endOffset": 1272
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1034,
+                        "endColumn": 42,
+                        "endOffset": 1075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1277,
+                    "endColumn": 44,
+                    "endOffset": 1317
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1328,
+                        "endColumn": 41,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1322,
+                    "endColumn": 41,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1078,
+                        "endColumn": 38,
+                        "endOffset": 1115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1364,
+                    "endColumn": 43,
+                    "endOffset": 1403
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1118,
+                        "endColumn": 40,
+                        "endOffset": 1157
+                    }
+                }
+            }
+        ]
+    }
+]

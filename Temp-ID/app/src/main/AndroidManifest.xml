@@ -1,0 +1,66 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jogtek.alpha.jlog"
+    android:versionCode="1"
+    android:versionName="0.0.0.1" >
+
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="true" />
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="15" />
+    <!-- SQLite + -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- SQLite - -->
+
+    <uses-permission android:name="android.permission.NFC" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:name=".api.DataDevice"
+        android:icon="@drawable/apkicon"
+        android:label="@string/title_activity_main"
+        android:screenOrientation="landscape"
+        android:theme="@android:style/Theme.NoTitleBar" >
+        <activity
+            android:name="com.jogtek.alpha.jlog.start"
+            android:label="@string/title_activity_main"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="scan"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name=".data"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="result"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="curve"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="command"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity android:name="tag_list" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 15
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.jogtek.alpha.jlog"
+        minSdkVersion 10
+        targetSdkVersion 15
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/achartengine-1.1.0.jar')
+    compile files('libs/commons-net-3.3.jar')
+    compile files('libs/mysql-connector-java-5.1.35-bin.jar')
+    compile 'com.android.support:support-v4:18.0.0'
+    compile 'com.google.code.gson:gson:2.2.4'
+    compile 'com.google.guava:guava:18.0'
+}

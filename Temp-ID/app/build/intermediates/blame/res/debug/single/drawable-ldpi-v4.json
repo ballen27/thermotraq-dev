@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\android\\projects\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

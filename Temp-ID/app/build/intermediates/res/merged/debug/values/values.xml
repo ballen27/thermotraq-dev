@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Black">#FF000000</color>
+    <color name="Blue">#FF0000FF</color>
+    <color name="BlueGreen">#ff008080</color>
+    <color name="Gray">#FF888888</color>
+    <color name="Green">#FF00FF00</color>
+    <color name="HelfTransparent">#80FFFFFF</color>
+    <color name="Red">#FFFF0000</color>
+    <color name="White">#FFFFFFFF</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dp0">0dp</dimen>
+    <dimen name="dp1">1dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp100">100dp</dimen>
+    <dimen name="dp105">105dp</dimen>
+    <dimen name="dp136">136dp</dimen>
+    <dimen name="dp26">26dp</dimen>
+    <dimen name="dp30">30dp</dimen>
+    <dimen name="dp360">360dp</dimen>
+    <dimen name="dp39">39dp</dimen>
+    <dimen name="dp5">5dp</dimen>
+    <dimen name="dp55">55dp</dimen>
+    <dimen name="dp65">65dp</dimen>
+    <dimen name="dp76">76dp</dimen>
+    <dimen name="dp90">90dp</dimen>
+    <dimen name="dp95">95dp</dimen>
+    <dimen name="font_size">30dp</dimen>
+    <dimen name="main_btn">100dp</dimen>
+    <dimen name="main_btn2">90dp</dimen>
+    <dimen name="main_btn2w">95dp</dimen>
+    <dimen name="main_btn3">30dp</dimen>
+    <dimen name="main_btn3w">30dp</dimen>
+    <dimen name="main_btnw">105dp</dimen>
+    <dimen name="main_imv">30dp</dimen>
+    <dimen name="main_imvw">30dp</dimen>
+    <dimen name="main_num_pos">0dp</dimen>
+    <dimen name="main_num_posw">76dp</dimen>
+    <dimen name="main_switch">55dp</dimen>
+    <dimen name="main_switchw">30dp</dimen>
+    <dimen name="play_btn_left">39dp</dimen>
+    <dimen name="play_btn_leftw">39dp</dimen>
+    <dimen name="play_peoplew">136dp</dimen>
+    <dimen name="play_title">30dp</dimen>
+    <dimen name="play_titlew">360dp</dimen>
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <string name="app_name">Temp-001 v115</string>
+    <string name="t_count">times</string>
+    <string name="t_dn_limit">Down</string>
+    <string name="t_explanation">Define</string>
+    <string name="t_min">min</string>
+    <string name="t_record">Records</string>
+    <string name="t_set_all">Set All Settings</string>
+    <string name="t_set_delay">Set Delay Time</string>
+    <string name="t_set_interval">Set Interval Time</string>
+    <string name="t_set_now">Set Start Time</string>
+    <string name="t_set_over_limit">Set Quota Of Over Limit</string>
+    <string name="t_set_up_dn">Set Limit</string>
+    <string name="t_temp">Temperature</string>
+    <string name="t_time">Time</string>
+    <string name="t_up_limit">Up</string>
+    <string name="text_delete_this">Delete This Record</string>
+    <string name="text_show_data">Show Tag Data</string>
+    <string name="title_activity_main">Temp-001 v115</string>
+    <style name="NFCVReader" parent="android:Theme.Light.NoTitleBar.Fullscreen"/>
+    <style name="bar_style" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="font_block" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#838b83</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">18dp</item>
+        
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style>
+    <style name="font_blocks_value" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FF2e3b55</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        
+    </style>
+    <style name="font_categorie" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FF2e3b55</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:layout_marginLeft">2dp</item>
+    </style>
+    <style name="font_from_to" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FF2e3b55</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">10dp</item>
+        </style>
+    <style name="font_from_to_edit" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:hint">0000</item>
+        <item name="android:maxLength">4</item>
+        <item name="android:textColor">#FF2e3b55</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+    <style name="font_from_to_edit_nb_block" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:hint">0001</item>
+        <item name="android:maxLength">4</item>
+        <item name="android:textColor">#FF2e3b55</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+    <style name="font_memory" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FF0e3b55</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginLeft">30dp</item>
+    </style>
+    <style name="font_ndefDate" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FF2e3b55</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">12dp</item>
+        
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        
+    </style>
+    <style name="font_ndefMessage" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">16dp</item>
+        
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style>
+    <style name="font_ndef_message" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FF2e3b55</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:layout_marginLeft">2dp</item>
+    </style>
+    <style name="font_value" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FF0e3b55</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Temp-001 v115</string>
+    <string name="title_activity_main">Temp-001 v115</string>
+    <string name="t_up_limit">Up</string>
+    <string name="t_dn_limit">Down</string>
+    <string name="t_record">Records</string>
+    <string name="t_time">Time</string>
+    <string name="t_temp">Temperature</string>
+    <string name="t_set_now">Set Start Time</string>
+    <string name="t_min">min</string>
+    <string name="t_set_delay">Set Delay Time</string>
+    <string name="t_set_interval">Set Interval Time</string>
+    <string name="t_set_up_dn">Set Limit</string>
+    <string name="t_count">times</string>
+    <string name="t_set_over_limit">Set Quota Of Over Limit</string>
+    <string name="t_set_all">Set All Settings</string>
+    <string name="t_explanation">Define</string>
+    <string name="text_show_data">Show Tag Data</string>
+    <string name="text_delete_this">Delete This Record</string>
+
+</resources>

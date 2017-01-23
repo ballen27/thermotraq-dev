@@ -1,0 +1,1043 @@
+[
+    {
+        "outputFile": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 5,
+                        "startOffset": 18,
+                        "endColumn": 49,
+                        "endOffset": 63
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 37,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 37,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 41,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 41,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endColumn": 44,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 44,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endColumn": 35,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 35,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 41,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 41,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 45,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 45,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 46,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 46,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 49,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 49,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 49,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 49,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 53,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 53,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 47,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endColumn": 47,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 37,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 37,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 37,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 37,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 41,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 41,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endColumn": 51,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 815,
+                        "endColumn": 51,
+                        "endOffset": 862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 50,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 50,
+                        "endOffset": 809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 61,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Documents\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 70,
+                        "endColumn": 61,
+                        "endOffset": 127
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\android\\projects\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 5,
+                        "startOffset": 18,
+                        "endColumn": 49,
+                        "endOffset": 63
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 37,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 37,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 41,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 41,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endColumn": 44,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 44,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endColumn": 35,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 35,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 41,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 41,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 45,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 45,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 46,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 46,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 49,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 49,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 49,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 49,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 53,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 53,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 47,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endColumn": 47,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 37,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 37,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 37,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 37,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 41,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 41,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endColumn": 51,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 815,
+                        "endColumn": 51,
+                        "endOffset": 862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 50,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 50,
+                        "endOffset": 809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 61,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "C:\\android\\projects\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 70,
+                        "endColumn": 61,
+                        "endOffset": 127
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 5,
+                        "startOffset": 18,
+                        "endColumn": 49,
+                        "endOffset": 63
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 37,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 37,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 41,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 41,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endColumn": 44,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 44,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endColumn": 35,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 35,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 41,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 41,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 45,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 45,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 46,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 46,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 49,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 49,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 49,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 49,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 53,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 53,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 47,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endColumn": 47,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 37,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 37,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 37,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 37,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 41,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 41,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endColumn": 51,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 815,
+                        "endColumn": 51,
+                        "endOffset": 862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 50,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 50,
+                        "endOffset": 809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 61,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "C:\\Users\\brons\\Desktop\\HotLogDev\\android\\android\\Temp-ID\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 70,
+                        "endColumn": 61,
+                        "endOffset": 127
+                    }
+                }
+            }
+        ]
+    }
+]

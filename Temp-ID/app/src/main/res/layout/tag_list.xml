@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_gradient"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/HelfTransparent" >
+
+        <Button
+            android:id="@+id/btnCurrent"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_empty_btn"
+            android:text="Current Tag"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnList"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/disable"
+            android:text="Tag List"
+            android:textColor="@color/White"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/HelfTransparent" >
+
+        <Button
+            android:id="@+id/btnCommand"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_empty_btn"
+            android:text="Setting"
+            android:textSize="20sp"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/btnLine"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_empty_btn"
+            android:text="Line"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnData"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_empty_btn"
+            android:text="Data"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/pbBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="10dp"
+        android:progressDrawable="@drawable/progress_circle2"
+        android:visibility="gone" />
+
+    <ListView
+        android:id="@+id/lvTags"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1" >
+
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/llIP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="IP address:"
+            android:textColor="@color/White"
+            android:textSize="22sp"
+            android:visibility="visible" />
+
+        <EditText
+            android:id="@+id/etIP"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/down"
+            android:ems="10"
+            android:gravity="bottom|center_horizontal"
+            android:inputType="text"
+            android:text="59.124.222.151"
+            android:visibility="visible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/TextView02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Name:"
+            android:textColor="@color/White"
+            android:textSize="22sp"
+            android:visibility="visible" />
+
+        <EditText
+            android:id="@+id/etName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/down"
+            android:ems="10"
+            android:gravity="bottom|center_horizontal"
+            android:inputType="text"
+            android:text="Administrator"
+            android:visibility="visible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llPw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/TextView03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Password:"
+            android:textColor="@color/White"
+            android:textSize="22sp"
+            android:visibility="visible" />
+
+        <EditText
+            android:id="@+id/etPw"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/down"
+            android:ems="10"
+            android:gravity="bottom|center_horizontal"
+            android:inputType="textPassword"
+            android:text="Jogtek28185540"
+            android:visibility="visible" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llDnload"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/HelfTransparent"
+        android:orientation="horizontal" >
+
+        <ToggleButton
+            android:id="@+id/tgSetting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/toggle"
+            android:textOff="Setting"
+            android:textOn="Setting"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnDnload"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_empty_btn"
+            android:gravity="center"
+            android:text="Download"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnClearAll"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_empty_btn"
+            android:gravity="center"
+            android:text="Clear All"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</LinearLayout>
